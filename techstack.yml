@@ -2,7 +2,7 @@ repo_name: 2lambda123/project-serum-swap
 report_id: 1da49fdc4ec98d3d532a6e151acd5086
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:45+00:00'
+timestamp: '2024-01-05T08:14:18+00:00'
 requested_by: 2lambda123
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/project-serum-swap
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/2lambda123/project-serum-swap
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/project-serum-swap
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/project-serum-swap/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: armaniferrante
   last_updated_on: 2021-04-30 05:20:44.000000000 Z
